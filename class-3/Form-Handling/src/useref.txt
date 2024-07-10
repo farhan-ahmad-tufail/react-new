@@ -1,0 +1,1 @@
+useRef - we select all the input aur unki value tab nikalte hain jab submit hota hai
